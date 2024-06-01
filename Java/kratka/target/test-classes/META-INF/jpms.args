@@ -1,0 +1,4 @@
+--patch-module
+com.projekt=_
+--add-reads
+com.projekt=ALL-UNNAMED
